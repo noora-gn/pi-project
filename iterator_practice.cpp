@@ -4,7 +4,6 @@
 
 using namespace std;
 
-
 int main()
 {
     vector<int> ar = {2,4,6,8,10};
