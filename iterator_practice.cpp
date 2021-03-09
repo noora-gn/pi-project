@@ -12,5 +12,5 @@ int main()
     for (ptr = ar.begin(); ptr < ar.end (); ptr++)
         cout << *ptr<< " ";
 
-    return 0;
+    return 0; 
 }
